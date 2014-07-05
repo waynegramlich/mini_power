@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Thu 03 Jul 2014 07:42:23 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Fri 04 Jul 2014 10:45:42 PM PDT
 
 BeginCmp
 TimeStamp = /53AA4798;
@@ -15,17 +15,87 @@ IdModule  = Mini_Power_Rev_A:MountingHole_3mm;
 EndCmp
 
 BeginCmp
-TimeStamp = /53A9D11F;
+TimeStamp = /53B78A23;
 Reference = N1;
-ValeurCmp = MS_DATA_HEADER;
+ValeurCmp = MS_DATA_HEADER_POWER;
 IdModule  = Mini_Power_Rev_A:Pin_Header_Straight_2x08;
 EndCmp
 
 BeginCmp
-TimeStamp = /53A9D139;
+TimeStamp = /53B7868D;
 Reference = N2;
-ValeurCmp = MS_PWR_HEADER;
+ValeurCmp = MS_PWR_HEADER_POWER;
 IdModule  = Mini_Power_Rev_A:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B7CA66;
+Reference = N3;
+ValeurCmp = OSTTC020162;
+IdModule  = Mini_Power_Rev_A:5MM_TERMINAL_BLOCK_2_POS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B61F22;
+Reference = N4;
+ValeurCmp = OSTTC020162;
+IdModule  = Mini_Power_Rev_A:5MM_TERMINAL_BLOCK_2_POS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B63175;
+Reference = N5;
+ValeurCmp = OSTTC020162;
+IdModule  = Mini_Power_Rev_A:5MM_TERMINAL_BLOCK_2_POS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B64AE0;
+Reference = N6;
+ValeurCmp = OSTTC020162;
+IdModule  = Mini_Power_Rev_A:5MM_TERMINAL_BLOCK_2_POS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B64AE6;
+Reference = N7;
+ValeurCmp = OSTTC020162;
+IdModule  = Mini_Power_Rev_A:5MM_TERMINAL_BLOCK_2_POS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B62FC0;
+Reference = Q1;
+ValeurCmp = FQP47P06;
+IdModule  = Mini_Power_Rev_A:TO-220_FET-GDS_Horizontal_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B6538A;
+Reference = Q2;
+ValeurCmp = FQP47P06;
+IdModule  = Mini_Power_Rev_A:TO-220_FET-GDS_Horizontal_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B63849;
+Reference = R1;
+ValeurCmp = MF-R300;
+IdModule  = Mini_Power_Rev_A:MF_R300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B65390;
+Reference = R2;
+ValeurCmp = MF-R300;
+IdModule  = Mini_Power_Rev_A:MF_R300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B6452D;
+Reference = SW1;
+ValeurCmp = F-426-0020;
+IdModule  = Mini_Power_Rev_A:GF_426_0020;
 EndCmp
 
 EndListe
