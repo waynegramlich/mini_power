@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Fri 04 Jul 2014 10:45:42 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Wed 09 Jul 2014 08:56:05 AM PDT
 
 BeginCmp
 TimeStamp = /53AA4798;
@@ -85,9 +85,9 @@ IdModule  = Mini_Power_Rev_A:MF_R300;
 EndCmp
 
 BeginCmp
-TimeStamp = /53B65390;
+TimeStamp = /53B7AD27;
 Reference = R2;
-ValeurCmp = MF-R300;
+ValeurCmp = RESETABLE_FUSE;
 IdModule  = Mini_Power_Rev_A:MF_R300;
 EndCmp
 
